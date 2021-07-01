@@ -1,0 +1,2 @@
+def intro(p,o):
+  print ("Hello", p )
